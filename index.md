@@ -2,4 +2,4 @@
 title: Gay Horror test-site
 ---
 
-thia is a test
+this is a test
