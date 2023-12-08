@@ -1,5 +1,5 @@
 ---
-title: Gay Horror test-site
+Gay Horror: test-site
 ---
 
 this is a test
